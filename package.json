@@ -10,7 +10,7 @@
     "@shelf/jest-mongodb": "1.2.3",
     "@types/jest": "26.0.13",
     "@types/node": "13.13.15",
-    "jest": "24.9.0",
+    "jest": "26.6.3",
     "lerna": "3.22.1",
     "ts-jest": "26.3.0",
     "typescript": "3.8.3"
