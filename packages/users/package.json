@@ -40,7 +40,7 @@
     "@types/express-jwt": "0.0.42",
     "@types/json-schema": "7.0.6",
     "@types/jsonwebtoken": "8.5.0",
-    "@types/mongodb": "3.5.26",
+    "@types/mongodb": "3.6.6",
     "@types/ms": "0.7.31",
     "@types/nodemailer": "6.4.0",
     "@types/passport": "1.0.3",

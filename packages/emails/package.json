@@ -24,7 +24,7 @@
     "nodemailer": "^6.4.2"
   },
   "devDependencies": {
-    "@types/mongodb": "3.5.26",
+    "@types/mongodb": "3.6.6",
     "@types/nodemailer": "6.4.0",
     "@types/supertest": "2.0.8",
     "supertest": "4.0.2",

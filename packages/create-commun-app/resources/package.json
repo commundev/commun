@@ -23,7 +23,7 @@
     "tsc-watch": "4.2.9",
     "@types/express": "4.17.7",
     "@types/jsonwebtoken": "8.5.0",
-    "@types/mongodb": "3.5.26",
+    "@types/mongodb": "3.6.6",
     "@types/nodemailer": "6.4.0"
   }
 }
