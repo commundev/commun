@@ -51,7 +51,7 @@
     "@types/mongodb": "3.5.26",
     "@types/morgan": "1.9.0",
     "@types/pluralize": "0.0.29",
-    "@types/prettier": "2.1.0",
+    "@types/prettier": "2.2.0",
     "@types/supertest": "2.0.8",
     "supertest": "4.0.2",
     "typescript": "3.8.3"
